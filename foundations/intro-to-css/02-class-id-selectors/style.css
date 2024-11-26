@@ -1,0 +1,21 @@
+.class {
+    background-color: rgb(255, 0, 0, 0.4);
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cool{
+font-size: 24px;
+}
+#one {
+color: blue;
+font-size: 36px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+
+}
+#two {
+    background-color: rgb(144, 238, 144);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 36px;
+}
